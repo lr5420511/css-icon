@@ -1,0 +1,652 @@
+/***icon-generic-download***/
+
+.icon-base-parent
+.icon-generic-download
+{
+  position: relative;
+  float: left;
+  width: 24px;
+  height: 10px;
+  border: solid 2px transparent;
+  left: 2px;
+  top: 16px;
+}
+
+.icon-generic-download:before
+{
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: solid 2px transparent;
+  transform: rotate(45deg);
+  left: 5px;
+  top: -7px;
+}
+
+.icon-generic-download:after
+{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 22px;
+  border-radius: 1px 1px 0px 0px;
+  left: 11px;
+  top: -14px;
+}
+
+/***icon-generic-refresh***/
+
+.icon-base-parent
+.icon-generic-refresh
+{
+  position: relative;
+  float: left;
+  width: 24px;
+  height: 24px;
+  border: solid 2px transparent;
+  border-radius: 14px;
+  left: 2px;
+  top: 2px;
+}
+
+.icon-generic-refresh:before
+{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  border-left: solid 4px transparent;
+  border-top: solid 4px transparent;
+  border-right: solid 2px transparent;
+  border-bottom: solid 2px transparent;
+  left: 14px;
+  top: -4px;
+}
+
+/***icon-generic-power***/
+
+.icon-base-parent
+.icon-generic-power
+{
+  position: relative;
+  float: left;
+  width: 20px;
+  height: 20px;
+  border: solid 2px transparent;
+  border-radius: 12px;
+  left: 4px;
+  top: 6px;
+}
+
+.icon-generic-power:before
+{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 12px;
+  border-radius: 1px;
+  left: 9px;
+  top: -3px;
+}
+
+/***icon-generic-clip***/
+
+.icon-base-parent
+.icon-generic-clip
+{
+  position: relative;
+  float: left;
+  width: 10px;
+  height: 19px;
+  border: solid 2px transparent;
+  border-radius: 7px 7px 0px 0px;
+  transform: rotate(-20deg);
+  left: 8px;
+  top: 3px;
+}
+
+.icon-generic-clip:before
+{
+  content: "";
+  position: absolute;
+  width: 6px;
+  height: 15px;
+  border: solid 2px transparent;
+  border-radius: 0px 0px 5px 5px;
+  left: 2px;
+  top: 7px;
+}
+
+.icon-generic-clip:after
+{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 15px;
+  border: solid 2px transparent;
+  border-radius: 3px 3px 0px 0px;
+  left: 2px; 
+  top: 2px;
+}
+
+/***icon-generic-up***/
+
+.icon-base-parent
+.icon-generic-up
+{
+  position: relative;
+  float: left;
+  width: 16px;
+  height: 16px;
+  border: solid 2px transparent;
+  transform: rotate(45deg);
+  left: 6px;
+  top: 7px;
+}
+
+.icon-generic-up:before
+{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 26px;
+  border-radius: 0px 0px 1px 1px;
+  transform: rotate(-45deg);
+  left: 8px;
+  top: -4px;
+}
+
+/***icon-generic-down***/
+
+.icon-base-parent
+.icon-generic-down
+{
+  position: relative;
+  float: left;
+  width: 16px;
+  height: 16px;
+  border: solid 2px transparent;
+  transform: rotate(45deg);
+  left: 6px;
+  top: 6px;
+}
+
+.icon-generic-down:before
+{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 26px;
+  border-radius: 1px 1px 0px 0px;
+  transform: rotate(-45deg);
+  left: 6px;
+  top: -6px;
+}
+
+/***icon-generic-left***/
+
+.icon-base-parent
+.icon-generic-left
+{
+  position: relative;
+  float: left;
+  width: 16px;
+  height: 16px;
+  border: solid 2px transparent;
+  transform: rotate(45deg);
+  left: 7px;
+  top: 7px;
+}
+
+.icon-generic-left:before
+{
+  content: "";
+  position: absolute;
+  width: 26px;
+  height: 2px;
+  border-radius: 0px 1px 1px 0px;
+  transform: rotate(-45deg);
+  left: -5px;
+  top: 7px;
+}
+
+/***icon-generic-right***/
+
+.icon-base-parent
+.icon-generic-right
+{
+  position: relative;
+  float: left;
+  width: 16px;
+  height: 16px;
+  border: solid 2px transparent;
+  transform: rotate(45deg);
+  left: 6px;
+  top: 7px;
+}
+
+.icon-generic-right:before
+{
+  content: "";
+  position: absolute;
+  width: 26px;
+  height: 2px;
+  border-radius: 1px 0px 0px 1px;
+  transform: rotate(-45deg);
+  left: -5px;
+  top: 7px;
+}
+
+/***icon-generic-close***/
+
+.icon-base-parent
+.icon-generic-close
+{
+  position: relative;
+  float: left;
+  width: 28px;
+  height: 2px;
+  border-radius: 1px;
+  transform: rotate(45deg);
+  left: 2px;
+  top: 16px;
+}
+
+.icon-generic-close:before
+{
+  content: "";
+  position: absolute;
+  width: 28px;
+  height: 2px;
+  border-radius: 1px;
+  transform: rotate(-90deg);
+  left: 0px;
+  top: 0px;
+}
+
+/***icon-generic-music***/
+
+.icon-base-parent
+.icon-generic-music
+{
+  position: relative;
+  float: left;
+  width: 10px;
+  height: 10px;
+  border: solid 2px transparent;
+  border-radius: 7px;
+  left: 2px;
+  top: 16px;
+}
+
+.icon-generic-music:before
+{
+  content: "";
+  position: absolute;
+  width: 14px;
+  height: 17px;
+  border-left: solid 2px transparent;
+  border-top: solid 4px transparent;
+  border-radius: 0px 14px 0px 0px;
+  left: 10px;
+  top: -16px;
+}
+
+/***icon-generic-wifi***/
+
+.icon-base-parent
+.icon-generic-wifi
+{
+  position: relative;
+  float: left;
+  width: 32px;
+  height: 32px;
+  border: solid 2px transparent;
+  border-radius: 18px;
+  left: -2px;
+  top: 10px;
+}
+
+.icon-generic-wifi:before
+{
+  content: "";
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  border: solid 2px transparent;
+  border-radius: 14px;
+  left: 2px;
+  top: 2px;
+}
+
+.icon-generic-wifi:after
+{
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border: solid 2px transparent;
+  border-radius: 10px;
+  left: 6px;
+  top: 6px;
+}
+
+/***icon-generic-phone***/
+
+.icon-base-parent
+.icon-generic-phone
+{
+  position: relative;
+  float: left;
+  width: 16px;
+  height: 20px;
+  border-left: solid 2px transparent;
+  border-right: solid 2px transparent;
+  border-top: solid 4px transparent;
+  border-bottom: solid 4px transparent;
+  left: 7px;
+  top: 2px;
+}
+
+.icon-generic-phone:before
+{
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 2px;
+  border-radius: 1px;
+  left: 4px;
+  top: 21px;
+}
+
+/***icon-generic-forbid***/
+
+.icon-base-parent
+.icon-generic-forbid
+{
+  position: relative;
+  float: left;
+  width: 24px;
+  height: 24px;
+  border: solid 2px transparent;
+  border-radius: 14px;
+  left: 2px;
+  top: 3px;
+}
+
+.icon-generic-forbid:before
+{
+  content: "";
+  position: absolute;
+  width: 24px;
+  height: 2px;
+  transform: rotate(-45deg);
+  left: 0px;
+  top: 11px;
+}
+
+/***icon-generic-upload***/
+
+.icon-base-parent
+.icon-generic-upload
+{
+  position: relative;
+  float: left;
+  width: 24px;
+  height: 10px;
+  border: solid 2px transparent;
+  left: 2px;
+  top: 16px;
+}
+
+.icon-generic-upload:before
+{
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: solid 2px transparent;
+  transform: rotate(45deg);
+  left: 5px;
+  top: -12px;
+}
+
+.icon-generic-upload:after
+{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 22px;
+  border-radius: 0px 0px 1px 1px;
+  left: 11px;
+  top: -12px;
+}
+
+/***icon-generic-computer***/
+
+.icon-base-parent
+.icon-generic-computer
+{
+  position: relative;
+  float: left;
+  width: 24px;
+  height: 18px;
+  border: solid 2px transparent;
+  left: 2px;
+  top: 2px;
+}
+
+.icon-generic-computer:before
+{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 6px;
+  left: 11px;
+  top: 20px;
+}
+
+.icon-generic-computer:after
+{
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  border-radius: 1px;
+  left: 2px;
+  top: 24px;
+}
+
+/***icon-generic-watch***/
+
+.icon-base-parent
+.icon-generic-watch
+{
+  position: relative;
+  float: left;
+  width: 32px;
+  height: 2px;
+  border-radius: 1px 0px 0px 1px;
+  transform: rotate(-45deg);
+  left: -2px;
+  top: 18px;
+}
+
+.icon-generic-watch:before
+{
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border: solid 2px transparent;
+  border-radius: 6px;
+  left: 11px;
+  top: -5px;
+}
+
+.icon-generic-watch:after
+{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  border: solid 2px transparent;
+  left: 30px;
+  top: -2px;
+}
+
+/***icon-generic-card***/
+
+.icon-base-parent
+.icon-generic-card
+{
+  position: relative;
+  float: left;
+  width: 24px;
+  height: 16px;
+  border:solid 2px transparent;
+  border-radius: 5px;
+  left: 2px;
+  top: 7px;
+}
+
+.icon-generic-card:before
+{
+  content: "";
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border: solid 2px transparent;
+  border-radius: 5px;
+  left: 8px;
+  top: 3px;
+}
+
+/***icon-generic-new***/
+
+.icon-base-parent
+.icon-generic-new
+{
+  position: relative;
+  float: left;
+  width: 28px;
+  height: 2px;
+  border-radius: 1px;
+  left: 2px;
+  top: 16px;
+}
+
+.icon-generic-new:before
+{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 28px;
+  border-radius: 1px;
+  left: 13px;
+  top: -13px;
+}
+
+/***icon-generic-remove***/
+
+.icon-base-parent
+.icon-generic-remove
+{
+  position: relative;
+  float: left;
+  width: 16px;
+  height: 16px;
+  border: solid 2px transparent;
+  left: 6px;
+  top: 11px;
+}
+
+.icon-generic-remove:before
+{
+  content: "";
+  position: absolute;
+  width: 28px;
+  height: 2px;
+  border-radius: 1px;
+  left: -6px;
+  top: -4px;
+}
+
+.icon-generic-remove:after
+{
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  border: solid 2px transparent;
+  border-radius: 3px;
+  left: 5px;
+  top: -10px;
+}
+
+/***icon-generic-search***/
+
+.icon-base-parent
+.icon-generic-search
+{
+  position: relative;
+  float: left;
+  width: 14px;
+  height: 14px;
+  border: solid 2px transparent;
+  border-radius: 9px;
+  left: 3px;
+  top: 3px;
+}
+
+.icon-generic-search:before
+{
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 2px;
+  border-radius: 0px 1px 1px 0px;
+  transform: rotate(45deg);
+  left: 10px;
+  top: 17px;
+}
+
+/***icon-generic-modify***/
+
+.icon-base-parent
+.icon-generic-modify
+{
+  position: relative;
+  float: left;
+  width: 20px;
+  height: 8px;
+  transform: rotate(-45deg);
+  left: 7px;
+  top: 12px;
+}
+
+.icon-generic-modify:before
+{
+  content: "";
+  position: absolute;
+  width: 0px;
+  height: 0px;
+  border-top: solid 4px transparent;
+  border-left: solid 8px transparent;
+  border-right: solid 8px transparent;
+  border-bottom: solid 4px transparent;
+  left: -18px;
+  top: 0px;
+}
+
+.icon-generic-modify:after
+{
+  content: "";
+  position: absolute;
+  width: 4px;
+  height: 8px;
+  border-radius: 0px 4px 4px 0px;
+  left: 22px;
+  top: 0px;
+}

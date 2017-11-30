@@ -1,0 +1,668 @@
+/***icon-black-download***/
+
+.icon-base-parent
+.icon-black-download
+{
+  border-left-color: #666666;
+  border-right-color: #666666;
+  border-bottom-color: #666666;
+}
+
+.icon-black-download:before
+{
+  border-right-color: #666666;
+  border-bottom-color: #666666;
+}
+
+.icon-black-download:after
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-download
+{
+  border-left-color: #000000;
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-download:before
+{
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-download:after
+{
+  background-color: #000000;
+}
+
+/***icon-black-refresh***/
+
+.icon-base-parent
+.icon-black-refresh
+{
+  border-top-color: #666666;
+  border-left-color: #666666;
+  border-bottom-color: #666666;
+}
+
+.icon-black-refresh:before
+{
+  border-right-color: #666666;
+  border-bottom-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-refresh
+{
+  border-top-color: #000000;
+  border-left-color: #000000;
+  border-bottom-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-refresh:before
+{
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+}
+
+/***icon-black-power***/
+
+.icon-base-parent
+.icon-black-power
+{
+  border-left-color: #666666;
+  border-right-color: #666666;
+  border-bottom-color: #666666;  
+}
+
+.icon-black-power:before
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-power
+{
+  border-left-color: #000000;
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-power:before
+{
+  background-color: #000000;
+}
+
+/***icon-black-clip***/
+
+.icon-base-parent
+.icon-black-clip
+{
+  border-top-color: #666666;
+  border-left-color: #666666;
+  border-right-color: #666666;
+}
+
+.icon-black-clip:before
+{
+  border-left-color: #666666;
+  border-right-color: #666666;
+  border-bottom-color: #666666;
+}
+
+.icon-black-clip:after
+{
+  border-left-color: #666666;
+  border-top-color: #666666;
+  border-right-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-clip
+{
+  border-top-color: #000000;
+  border-left-color: #000000;
+  border-right-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-clip:before
+{
+  border-left-color: #000000;
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-clip:after
+{
+  border-left-color: #000000;
+  border-top-color: #000000;
+  border-right-color: #000000;
+}
+
+/***icon-black-up***/
+
+.icon-base-parent
+.icon-black-up
+{
+  border-left-color: #666666;
+  border-top-color: #666666;
+}
+
+.icon-black-up:before
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-up
+{
+  border-left-color: #000000;
+  border-top-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-up:before
+{
+  background-color: #000000;
+}
+
+/***icon-black-down***/
+
+.icon-base-parent
+.icon-black-down
+{
+  border-right-color: #666666;
+  border-bottom-color: #666666;
+}
+
+.icon-black-down:before
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-down
+{
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-down:before
+{
+  background-color: #000000;
+}
+
+/***icon-black-left***/
+
+.icon-base-parent
+.icon-black-left
+{
+  border-left-color: #666666;
+  border-bottom-color: #666666;
+}
+
+.icon-black-left:before
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-left
+{
+  border-left-color: #000000;
+  border-bottom-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-left:before
+{
+  background-color: #000000;
+}
+
+/***icon-black-right***/
+
+.icon-base-parent
+.icon-black-right
+{
+  border-top-color: #666666;
+  border-right-color: #666666;
+}
+
+.icon-black-right:before
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-right
+{
+  border-top-color: #000000;
+  border-right-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-right:before
+{
+  background-color: #000000;
+}
+
+/***icon-black-close***/
+
+.icon-base-parent
+.icon-black-close
+{
+  background-color: #666666;
+}
+
+.icon-black-close:before
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-close
+{
+  background-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-close:before
+{
+  background-color: #000000;
+}
+
+/***icon-black-music***/
+
+.icon-base-parent
+.icon-black-music
+{
+  border-color: #666666;
+}
+
+.icon-black-music:before
+{
+  border-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-music
+{
+  border-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-music:before
+{
+  border-color: #000000;
+}
+
+/***icon-black-wifi***/
+
+.icon-base-parent
+.icon-black-wifi
+{
+  border-top-color: #666666;
+}
+
+.icon-black-wifi:before
+{
+  border-top-color: #666666;
+}
+
+.icon-black-wifi:after
+{
+  border-top-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-wifi
+{
+  border-top-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-wifi:before
+{
+  border-top-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-wifi:after
+{
+  border-top-color: #000000;
+}
+
+/***icon-black-phone***/
+
+.icon-base-parent
+.icon-black-phone
+{
+  border-color: #666666;
+  background-color: #CCCCCC;
+}
+
+.icon-black-phone:before
+{
+  background-color: #CCCCCC;
+}
+
+.icon-base-parent:hover
+.icon-black-phone
+{
+  border-color: #000000;
+  background-color: #FFFFFF;
+}
+
+.icon-base-parent:hover
+.icon-black-phone:before
+{
+  background-color: #FFFFFF;
+}
+
+/***icon-black-forbid***/
+
+.icon-base-parent
+.icon-black-forbid
+{
+  border-color: #666666;
+}
+
+.icon-black-forbid:before
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-forbid
+{
+  border-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-forbid:before
+{
+  background-color: #000000;
+}
+
+/***icon-black-upload***/
+
+.icon-base-parent
+.icon-black-upload
+{
+  border-left-color: #666666;
+  border-bottom-color: #666666;
+  border-right-color: #666666;
+}
+
+.icon-black-upload:before
+{
+  border-left-color: #666666;
+  border-top-color: #666666;
+}
+
+.icon-black-upload:after
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-upload
+{
+  border-left-color: #000000;
+  border-bottom-color: #000000;
+  border-right-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-upload:before
+{
+  border-left-color: #000000;
+  border-top-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-upload:after
+{
+  background-color: #000000;
+}
+
+/***icon-black-computer***/
+
+.icon-base-parent
+.icon-black-computer
+{
+  border-color: #666666;
+  background-color: #CCCCCC;
+}
+
+.icon-black-computer:before
+{
+  background-color: #666666;
+}
+
+.icon-black-computer:after
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-computer
+{
+  border-color: #000000;
+  background-color: #FFFFFF;
+}
+
+.icon-base-parent:hover
+.icon-black-computer:before
+{
+  background-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-computer:after
+{
+  background-color: #000000;
+}
+
+/***icon-black-watch***/
+
+.icon-base-parent
+.icon-black-watch
+{
+  background-color: #666666;
+}
+
+.icon-black-watch:before
+{
+  border-color: #666666;
+  background-color: #CCCCCC;
+}
+
+.icon-black-watch:after
+{
+  border-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-watch
+{
+  background-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-watch:before
+{
+  border-color: #000000;
+  background-color: #FFFFFF;
+}
+
+.icon-base-parent:hover
+.icon-black-watch:after
+{
+  border-color: #000000;
+}
+
+/***icon-black-card***/
+
+.icon-base-parent
+.icon-black-card
+{
+  border-color: #666666;
+}
+
+.icon-black-card:before
+{
+  border-left-color: #666666;
+  border-top-color: #666666;
+  border-bottom-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-card
+{
+  border-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-card:before
+{
+  border-left-color: #000000;
+  border-top-color: #000000;
+  border-bottom-color: #000000;
+}
+
+/***icon-black-new***/
+
+.icon-base-parent
+.icon-black-new
+{
+  background-color: #666666;
+}
+
+.icon-black-new:before
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-new
+{
+  background-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-new:before
+{
+  background-color: #000000;
+}
+
+/***icon-black-remove***/
+
+.icon-base-parent
+.icon-black-remove
+{
+  border-left-color: #666666;
+  border-bottom-color: #666666;
+  border-right-color: #666666;
+}
+
+.icon-black-remove:before
+{
+  background-color: #666666;
+}
+
+.icon-black-remove:after
+{
+  border-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-remove
+{
+  border-left-color: #000000;
+  border-bottom-color: #000000;
+  border-right-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-remove:before
+{
+  background-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-remove:after
+{
+  border-color: #000000;
+}
+
+/***icon-black-search***/
+
+.icon-base-parent
+.icon-black-search
+{
+  border-color: #666666;
+}
+
+.icon-black-search:before
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-search
+{
+  border-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-search:before
+{
+  background-color: #000000;
+}
+
+/***icon-black-modify***/
+
+.icon-base-parent
+.icon-black-modify
+{
+  background-color: #666666;
+}
+
+.icon-black-modify:before
+{
+  border-right-color: #666666;
+}
+
+.icon-black-modify:after
+{
+  background-color: #666666;
+}
+
+.icon-base-parent:hover
+.icon-black-modify
+{
+  background-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-modify:before
+{
+  border-right-color: #000000;
+}
+
+.icon-base-parent:hover
+.icon-black-modify:after
+{
+  background-color: #000000;
+}
